@@ -1,0 +1,4 @@
+/target
+/testing
+.DS_Store
+*.lock
